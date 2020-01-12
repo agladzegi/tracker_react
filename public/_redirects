@@ -1,0 +1,2 @@
+/api/* https://public-api.tracker.gg/v2/apex/standard/:splat 200
+/*    /index.html  200
